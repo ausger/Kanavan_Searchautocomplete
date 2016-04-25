@@ -1,0 +1,9 @@
+{
+  "name": "kanavan/searchautocomplete",
+  "license": "GPLv3",
+  "type": "magento-module",
+  "description": "Kanavan Magento Search Autocomplete",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "~3.0"
+  }
+}

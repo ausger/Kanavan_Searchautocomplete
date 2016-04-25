@@ -1,0 +1,4 @@
+Kanavan/Searchautocomplete/*                                                app/code/local/Kanavan/Searchautocomplete
+layout/searchautocomplete.xml                                               app/design/frontend/base/default/layout/searchautocomplete.xml
+template/searchautocomplete/*                                               app/design/frontend/base/default/template/searchautocomplete
+Kanavan_Searchautocomplete.xml                                              app/etc/modules/Kanavan_Searchautocomplete.xml
